@@ -46,9 +46,3 @@ Others:
 Order can be made via phone/chatbot
 if any issue on orders, tell them to contact customer service via phone number.
 
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
